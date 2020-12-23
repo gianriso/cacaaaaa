@@ -1,0 +1,5 @@
+package ubb.electivo.trabajo.repositorios;
+
+public interface TrabajosRepository {
+
+}

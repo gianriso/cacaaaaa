@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="ubb.electivo.trabajo.entidades.Estimacion_trabajo"/>
+    <fullyQualifiedTypeName name="ubb.electivo.proyectoFinal.entidades.proyecto"/>
+    <fullyQualifiedTypeName name="ubb.electivo.trabajo.entidades.Evaluacion"/>
+    <fullyQualifiedTypeName name="ubb.electivo.persona.entidades.Ciudad"/>
+    <fullyQualifiedTypeName name="ubb.electivo.persona.entidades.Cliente"/>
+    <fullyQualifiedTypeName name="ubb.electivo.persona.entidades.Decorador"/>
+    <fullyQualifiedTypeName name="ubb.electivo.persona.entidades.Especialidad"/>
+    <fullyQualifiedTypeName name="ubb.electivo.persona.entidades.Persona"/>
+    <fullyQualifiedTypeName name="ubb.electivo.persona.entidades.Region"/>
+    <fullyQualifiedTypeName name="ubb.electivo.trabajo.entidades.Trabajos"/>
+    <fullyQualifiedTypeName name="ubb.electivo.trabajo.entidades.Materiales"/>
+    <fullyQualifiedTypeName name="ubb.electivo.trabajo.entidades.TrabajoMaterial"/>
+</qualifiedTypeNameHistroy>
